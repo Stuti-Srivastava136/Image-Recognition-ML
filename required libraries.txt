@@ -1,0 +1,7 @@
+required libraries:
+
+tensorflow
+tensorflow-datasets
+matplotlib
+scikit-learn
+numpy
